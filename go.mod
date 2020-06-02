@@ -1,4 +1,4 @@
-module github.com/hahwul/go-github-selfupdate
+module github.com/hahwul/go-github-selfupdate-patched
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
